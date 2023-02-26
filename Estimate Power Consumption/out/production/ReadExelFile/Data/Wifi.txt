@@ -1,0 +1,4 @@
+title-wifi.setWifiEnabled(false)-wifi.setWifiEnabled(true)-Client.execute(httpget, responseHandler)
+off 0 0-null-idle-null
+idle 20 20-off-null-transmitting
+transmitting 710 758-off-null-null

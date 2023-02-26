@@ -1,0 +1,4 @@
+title-intent.putExtra(String, true)-intent.putExtra(String, false)-locationManager.requestLocationUpdates()
+off 0 0-idle-null-null
+idle 173.55 173.55-null-off-on
+on 429.55 429.55-null-off-null
