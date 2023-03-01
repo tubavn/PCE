@@ -1,0 +1,10 @@
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\obj\Debug\PCE.csprojAssemblyReference.cache
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\obj\Debug\PCE.Form1.resources
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\obj\Debug\PCE.Properties.Resources.resources
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\obj\Debug\PCE.csproj.GenerateResource.cache
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\obj\Debug\PCE.csproj.CoreCompileInputs.cache
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\bin\Debug\PCE.exe.config
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\bin\Debug\PCE.exe
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\bin\Debug\PCE.pdb
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\obj\Debug\PCE.exe
+D:\Dropbox\Nghien cuu\Code\PCE\PCE\obj\Debug\PCE.pdb
